@@ -56,5 +56,5 @@ To verify the linear convergence, we plot the ratios of consecutive iterations. 
 The "Phase Transition" plot illustrates the probability of successful signal recovery as a function of the measurement ratio $m/n$. As shown, a sharp transition occurs, typically around $\alpha \approx 3.5$ for this algorithm.
 
 <p align="center">
-  <img src="Figure_5.png" width="800">
+  <img src="assets/Figure_5.png" width="800">
 </p>
