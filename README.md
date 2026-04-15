@@ -26,7 +26,7 @@ Ensure you have Python 3.9+ installed. The following libraries are required:
 ### Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/Morteza-Rahimi68/Scaled-Polyak-subgradient-method-for-robust-phase-retrieval.git
+git clone https://github.com/Morteza-Rahimi68/SPSG-for-robust-phase-retrieval.git
 cd Scaled-Polyak-subgradient-method-for-robust-phase-retrieval
 pip install numpy matplotlib seaborn
 ```
